@@ -50,3 +50,17 @@ li a {
         right: 0px;
     }
   }
+
+
+  @media screen and (max-width: 316px) {
+    li a {
+        padding: 8px;
+        position: relative;
+        right: 20px;
+    }
+
+    nav img {
+        position: relative;
+        right: 5px;
+    }
+  }
