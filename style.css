@@ -52,7 +52,7 @@ li a {
   }
 
 
-  @media screen and (max-width: 316px) {
+  @media screen and (max-width: 296px) {
     li a {
         padding: 8px;
         position: relative;
